@@ -59,7 +59,8 @@ button:hover{
     font-family: monospace;
     font-size: 2em;
   }
-  
+
+
   @keyframes typing {
     from {
       width: 0
